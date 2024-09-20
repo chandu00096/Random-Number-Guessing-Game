@@ -1,7 +1,8 @@
-# Random-Number-Guessing-Game
-these is a simple python code for random number guessing game
+# Random Number Guessing Game
 
 ## Project URL
-("https://github.com/chandu00096/Random-Number-Guessing-Game/blob/main/code"
+[Play the Game](https://roadmap.sh/projects/number-guessing-game)
 
+## Repository
+[GitHub Repository](https://github.com/chandu00096/Random-Number-Guessing-Game)
 
